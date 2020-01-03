@@ -1,7 +1,6 @@
 <resources>
     <string name="app_name">STOCKER</string>
     <string name="no_products">It\'s empty here...</string>
-    <string name="add_first_product_hint">Click the button below to add a new product.</string>
     <string name="add_product">Add Product</string>
     <string name="edit_product">Edit Product</string>
     <string name="details">Details</string>

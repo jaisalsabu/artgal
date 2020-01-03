@@ -18,6 +18,16 @@
         <item name="android:src">@drawable/add</item>
     </style>
 
+    <style name="AddProductButtonart">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:layout_alignParentEnd">true</item>
+        <item name="android:layout_margin">@dimen/standard_space</item>
+        <item name="android:background">@color/white</item>
+        <item name="android:src">@drawable/addart</item>
+    </style>
+
     <style name="EmptyViewText">
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
